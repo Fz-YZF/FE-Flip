@@ -69,4 +69,3 @@ end
 ca:BindAction("zeezyFrontflip",zeezyFrontflip,false,FrontflipKey)
 ca:BindAction("zeezyBackflip",zeezyBackflip,false,BackflipKey)
 ca:BindAction("zeezyAirjump",zeezyAirjump,false,AirjumpKey)
-game.StarterGui:SetCore("SendNotification", {Title = "feFlip", Text = "feFlip loaded successfully!", Icon = "rbxassetid://505845268", Duration = 5})
